@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219452220631",
+    "firebase_url": "https://flashchartapp-36613.firebaseio.com",
+    "project_id": "flashchartapp-36613",
+    "storage_bucket": "flashchartapp-36613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219452220631:android:2957a837bdc238d2f87c92",
+        "android_client_info": {
+          "package_name": "com.AshutoshKarmakar.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219452220631-bgq07ude00e829g7t18t819mmiu162db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFCHq-NbU9ZMPXuwiKiKUrvn8tZqFWDEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219452220631-bgq07ude00e829g7t18t819mmiu162db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
